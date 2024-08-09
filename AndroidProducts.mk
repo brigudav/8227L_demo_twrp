@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     omni_8227L_demo-user \
     omni_8227L_demo-userdebug \
-    omni_8227L_demo-eng
+
