@@ -10,6 +10,7 @@ DEVICE_PATH := device/alps/8227L_demo
 TARGET_BOARD_PLATFORM := ac8227l               
 TARGET_NO_BOOTLOADER := true
 TARGET_BOOTLOADER_BOARD_NAME := 
+BOARD_BOOT_HEADER_VERSION := 0
 
 # These two are for MTK Chipsets only
 BOARD_USES_MTK_HARDWARE := true
