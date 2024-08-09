@@ -7,8 +7,7 @@
 
 DEVICE_PATH := device/alps/8227L_demo
 
-# For building with minimal manifest
-ALLOW_MISSING_DEPENDENCIES := true
+
 
 # Architecture
 TARGET_ARCH := arm
