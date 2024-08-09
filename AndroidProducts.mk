@@ -8,7 +8,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_8227L_demo.mk
 
-COMMON_LUNCH_CHOICES := \
-    omni_8227L_demo-user \
-    omni_8227L_demo-userdebug \
 
