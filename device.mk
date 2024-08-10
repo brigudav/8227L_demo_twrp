@@ -6,3 +6,6 @@
 #
 
 LOCAL_PATH := device/alps/8227L_demo
+
+# API
+PRODUCT_SHIPPING_API_LEVEL := 27
